@@ -10,7 +10,7 @@
 
 
 
-> *La detección de objetos y la estimación de la profundidad en entornos urbanos presentan desafíos únicos debido a las condiciones cambiantes de iluminación, las oclusiones y la variabilidad de los objetos. Este trabajo aborda estos desafíos mediante la implementación de arquitecturas de visión por computadora y aprendizaje profundo y el uso de conjuntos de datos de imágenes y videso creado en diferentes escenarios de la ciudad de Bucaramanga.*
+> *La detección de objetos y la estimación de la profundidad en entornos urbanos presentan desafíos únicos debido a las condiciones cambiantes de iluminación, las oclusiones y la variabilidad de los objetos. Este trabajo aborda estos desafíos mediante la implementación de modelos fundacionales en aprovechamientos de visión por computadora e inteligencia artificial, ademas del uso de un conjunto de datos RGB de imágenes y videos creado en diferentes escenarios de la ciudad de Bucaramanga.*
 
 </div>
 
@@ -30,6 +30,6 @@ BucaraSet fue creado en 4 entornos urbanos de Bucaramanga, contiene 403 escenas 
 
 ## Estructura del proyecto
 
-- `bucaraset/`: Contiene las carpetas de las diferentes imágenes y videos de BucaraSet. 
+- `BucaraSet/`: Contiene las carpetas de las diferentes imágenes y videos de BucaraSet. 
 - `project-detr-depth.ipynb`: Implementación y explicación en Colab Notebook.
 - `presentacion.pptx`: Diapositivas del proyecto.
